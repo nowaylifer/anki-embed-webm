@@ -1,0 +1,9 @@
+{
+  "videoHTMLAttributes": {
+    "controls": true,
+    "controlslist": "nodownload",
+    "autoplay": true,
+    "loop": false,
+    "muted": false
+  }
+}
